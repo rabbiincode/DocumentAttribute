@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\DocumentAttribute\bin\Debug\net6.0\DocumentAttribute.exe
+C:\Users\USER\Desktop\DocumentAttribute\bin\Debug\net6.0\DocumentAttribute.deps.json
+C:\Users\USER\Desktop\DocumentAttribute\bin\Debug\net6.0\DocumentAttribute.runtimeconfig.json
+C:\Users\USER\Desktop\DocumentAttribute\bin\Debug\net6.0\DocumentAttribute.dll
+C:\Users\USER\Desktop\DocumentAttribute\bin\Debug\net6.0\DocumentAttribute.pdb
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.AssemblyInfo.cs
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.dll
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\refint\DocumentAttribute.dll
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.pdb
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\DocumentAttribute.genruntimeconfig.cache
+C:\Users\USER\Desktop\DocumentAttribute\obj\Debug\net6.0\ref\DocumentAttribute.dll
